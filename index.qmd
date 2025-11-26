@@ -1,11 +1,39 @@
 ---
-title: "personal-webiste"
+title: "Bennett Kedrosky"
+toc: false
+about:
+  template: trestles
+  image: profile_picture.jpeg
+  links:
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:bkedrosky@gmail.com"
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/bennettkedrosky/
+    - icon: github
+      text: Github
+      href: https://github.com/bennettkedrosky
 ---
 
-This is a Quarto website.
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Experience
 
-```{r}
-1 + 1
-```
+*JP Morgan* | **Investment Strategy Summer Analyst** | Summer 2025
+
+*XN LP* | **Investment Data Analyst Intern** | Summer 2024
+
+## Education
+
+**University of California, Los Angeles (UCLA)** | 2022 - 2026
+
+Major: *Statistics and Data Science (BS)*
+
+Minor: *Accounting*
+
+GPA: 3.8/4.0
+
+
+
+[Link](/)

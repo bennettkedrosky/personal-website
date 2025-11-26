@@ -1,6 +1,18 @@
 ---
 title: "About"
+toc: false
 ---
+
+#ABOUT 
+```{r}
+#--> quarto render
+# git add .
+# git commit -m "message"
+# git push
+```
+
+
+
 
 About this site
 

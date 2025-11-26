@@ -4,13 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 2\n\n[1] 3"
+    "text": "#ABOUT\n\n#--&gt; quarto render\n# git add .\n# git commit -m \"message\"\n# git push\n\nAbout this site\n\n1 + 2\n\n[1] 3"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-webiste",
+    "title": "Bennett Kedrosky",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Bennett Kedrosky",
+    "section": "Experience",
+    "text": "Experience\nJP Morgan | Investment Strategy Summer Analyst | Summer 2025\nXN LP | Investment Data Analyst Intern | Summer 2024"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Bennett Kedrosky",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles (UCLA) | 2022 - 2026\nMajor: Statistics and Data Science (BS)\nMinor: Accounting\nGPA: 3.8/4.0\nLink"
   }
 ]
