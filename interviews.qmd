@@ -5,11 +5,14 @@ toc: false
 
 In high school, I created the fastedst wildfire spotter in California. 
 
+---
+
 ::: {.grid}
 
 ::: {.g-col-6}
 ### Kelly and Ryan
 [![](https://img.youtube.com/vi/CbrHEHC5Zfw/hqdefault.jpg){style="width:300px; border-radius:20px;"}](https://www.youtube.com/watch?v=CbrHEHC5Zfw)
+
 [Watch →](https://www.youtube.com/watch?v=CbrHEHC5Zfw)
 :::
 
@@ -17,12 +20,14 @@ In high school, I created the fastedst wildfire spotter in California.
 ::: {.g-col-6}
 ### Bloomberg
 [![](https://img.youtube.com/vi/ZH93oxtf-Pw/hqdefault.jpg){style="width:300px; border-radius:20px;"}](https://www.youtube.com/watch?v=ZH93oxtf-Pw)
+
 [Watch →](https://www.youtube.com/watch?v=ZH93oxtf-Pw)
 :::
 
 ::: {.g-col-6}
 ### CBS
 [![](https://img.youtube.com/vi/I-pQKLsHJSY/hqdefault.jpg){style="width:300px; border-radius:20px;"}](https://www.youtube.com/watch?v=I-pQKLsHJSY)
+
 [Watch →](https://www.youtube.com/watch?v=I-pQKLsHJSY)
 :::
 
@@ -30,6 +35,7 @@ In high school, I created the fastedst wildfire spotter in California.
 ::: {.g-col-6}
 ### Weather Channel
 [![](https://img.youtube.com/vi/J0PZ3b4wRbY/hqdefault.jpg){style="width:300px; border-radius:20px;"}](https://www.youtube.com/watch?v=J0PZ3b4wRbY)
+
 [Watch →](https://www.youtube.com/watch?v=J0PZ3b4wRbY)
 :::
 

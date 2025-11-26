@@ -23,7 +23,8 @@ toc: false
 - What do you make of Sam Altman’s comments on fraud from voice authentication cloning?
 
   
-[![](SummerMailbag.png){style="width:300px; border-radius:20px;"}](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/summer-mailbag-amv.pdf){target="_blank"}  
+[![](SummerMailbag.png){style="width:300px; border-radius:20px;"}](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/summer-mailbag-amv.pdf){target="_blank"}
+
 [View PDF →](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/summer-mailbag-amv.pdf){target="_blank"}
 
 
@@ -37,4 +38,5 @@ For three decades until 2020, US healthcare stocks generated returns comparable 
 
   
 [![](SickAsADog.png){style="width:300px; border-radius:20px;"}](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/healthcare-sick-as-a-dog-amv.pdf){target="_blank"}  
+
 [View PDF →](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/healthcare-sick-as-a-dog-amv.pdf){target="_blank"}
