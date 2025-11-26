@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Work – Bennett Kedrosky</title>
+<title>Reseach – Bennett Kedrosky</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -101,8 +101,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./work.html" aria-current="page"> 
-<span class="menu-text">Work</span></a>
+    <a class="nav-link" href="./research.qmd"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./interviews.html"> 
+<span class="menu-text">Interviews</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -121,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Work</h1>
+<h1 class="title">Reseach</h1>
 </div>
 
 
@@ -138,8 +142,19 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="jp-morgan" class="level2">
-<h2 class="anchored" data-anchor-id="jp-morgan">JP Morgan</h2>
+<section id="jp-morgan-research-reports" class="level2">
+<h2 class="anchored" data-anchor-id="jp-morgan-research-reports">JP Morgan Research &amp; Reports</h2>
+<p>I worked under the Chief Investment Officer of JP Morgan Asset Management. Here are two of our research reports:</p>
+<div class="grid">
+<section id="healthcare-sick-as-a-dog" class="level3 g-col-6">
+<h3 class="anchored" data-anchor-id="healthcare-sick-as-a-dog">Healthcare: Sick as a Dog</h3>
+<p><a href="https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/healthcare-sick-as-a-dog-amv.pdf" target="_blank"><img src="SickAsADog.png" class="img-fluid" style="width:300px; border-radius:30px;"></a> <a href="https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/healthcare-sick-as-a-dog-amv.pdf" target="_blank">View PDF →</a></p>
+</section>
+<section id="summer-mailbag" class="level3 g-col-6">
+<h3 class="anchored" data-anchor-id="summer-mailbag">Summer Mailbag</h3>
+<p><a href="https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/summer-mailbag-amv.pdf" target="_blank"><img src="SummerMailbag.png" class="img-fluid" style="width:300px;border-radius:30px;"></a> <a href="https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/summer-mailbag-amv.pdf" target="_blank">View PDF →</a></p>
+</section>
+</div>
 
 
 </section>
@@ -232,6 +247,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

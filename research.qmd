@@ -1,0 +1,40 @@
+---
+title: "JP Morgan Research Reports"
+toc: false
+---
+
+*I worked under the Chief Investment Officer of JP Morgan Asset Management. Here are two of our research reports:*
+
+
+---
+
+### Summer Mailbag (July 9th, 2025)
+
+*Answering client questions on markets, energy, geopolitics, and technology:*
+
+- Why is there such a long backlog for natural gas turbines, and do their higher prices make solar+storage comparable economically as a form of baseload power?
+- Is China constraining exports of rare earths to the US and why did the DoD invest in MP Materials?
+- What are you seeing regarding the YUCs, the MEGAs and US equity market valuations?
+- What would be the real-world implications of a relaxation in US bank capital regulations?
+- What do you make of Apple’s paper citing problems that reasoning models face?
+- What’s the latest on tariffs and unforeseen consequences?
+- Charles Gave wrote that the US dollar is no longer the world’s reserve currency. What’s your view?
+- Do JP Morgan’s blockchain projects argue for building positions in Ethereum?
+- What do you make of Sam Altman’s comments on fraud from voice authentication cloning?
+
+  
+[![](SummerMailbag.png){style="width:300px; border-radius:20px;"}](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/summer-mailbag-amv.pdf){target="_blank"}  
+[View PDF →](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/summer-mailbag-amv.pdf){target="_blank"}
+
+
+---
+
+### Sick as a Dog (August 12, 2025)
+
+*A deep dive into the cheapness of US healthcare stocks and the debate over publicly funded science research:*
+
+For three decades until 2020, US healthcare stocks generated returns comparable to tech, with far less volatility. Things have changed as tech has surged while healthcare stagnated. This report explores the forces driving healthcare to its lowest relative valuations in 30+ years and outlines potential catalysts for a rebound.
+
+  
+[![](SickAsADog.png){style="width:300px; border-radius:20px;"}](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/healthcare-sick-as-a-dog-amv.pdf){target="_blank"}  
+[View PDF →](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/healthcare-sick-as-a-dog-amv.pdf){target="_blank"}

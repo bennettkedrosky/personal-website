@@ -9,16 +9,20 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: work.qmd
-        text: Work
+      - href: research.qmd
+        text: Research
+      - href: interviews.qmd
+        text: Interviews
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
+    link-external-newwindow: true
+    
     
 execute:
   freeze: auto
