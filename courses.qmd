@@ -1,0 +1,20 @@
+---
+title: "Courses"
+toc: false
+---
+
+### Courses
+
+STATS 101A - Data Analysis & Regression
+
+STATS 101B - Design & Analysis of Experiment
+
+STATS 101C - Statistical Models & Data Mining
+
+STATS 102C - Monte Carlo Methods
+
+MGMT 120A/B - Financial Accounting
+
+MGMT 122 - Management Accounting
+
+MGMT 127 - Tax Principles & Policy

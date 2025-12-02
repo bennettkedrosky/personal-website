@@ -18,9 +18,6 @@ toc: false
 - What would be the real-world implications of a relaxation in US bank capital regulations?
 - What do you make of Apple’s paper citing problems that reasoning models face?
 - What’s the latest on tariffs and unforeseen consequences?
-- Charles Gave wrote that the US dollar is no longer the world’s reserve currency. What’s your view?
-- Do JP Morgan’s blockchain projects argue for building positions in Ethereum?
-- What do you make of Sam Altman’s comments on fraud from voice authentication cloning?
 
   
 [![](SummerMailbag.png){style="width:300px; border-radius:20px;"}](https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/summer-mailbag-amv.pdf){target="_blank"}

@@ -3,7 +3,8 @@ title: "Interviews"
 toc: false
 ---
 
-In high school, I created the fastedst wildfire spotter in California. 
+In high school, I created the fastest wildfire spotter in California by scraping police reports in real-time
+using six programming languages: Python, SQL, PHP , JavaScript, HTML and CSS. I was featured on the following TV news programs:
 
 ---
 

@@ -7,12 +7,12 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: research.qmd
         text: Research
       - href: interviews.qmd
         text: Interviews
+      - href: courses.qmd
+        text: Courses
 
 format:
   html:

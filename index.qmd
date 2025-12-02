@@ -20,13 +20,13 @@ about:
 
 data science
 
-## Experience
+### Experience
 
 *JP Morgan* | **Investment Strategy Summer Analyst** | Summer 2025
 
 *XN LP* | **Investment Data Analyst Intern** | Summer 2024
 
-## Education
+### Education
 
 **University of California, Los Angeles (UCLA)** | 2022 - 2026
 
@@ -35,9 +35,3 @@ Major: *Statistics and Data Science (BS)*
 Minor: *Accounting*
 
 GPA: 3.8/4.0
-
-
-
-
-
-[Link](/)
