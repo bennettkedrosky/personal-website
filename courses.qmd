@@ -1,9 +1,8 @@
 ---
-title: "Courses"
+title: "UCLA Courses"
 toc: false
 ---
-
-### Courses
+STATS 100C - Linear Models
 
 STATS 101A - Data Analysis & Regression
 
@@ -18,3 +17,5 @@ MGMT 120A/B - Financial Accounting
 MGMT 122 - Management Accounting
 
 MGMT 127 - Tax Principles & Policy
+
+MGMT 170 - Real Estate Finance & Investments

@@ -17,9 +17,6 @@ about:
       text: Github
       href: https://github.com/bennettkedrosky
 ---
-
-data science
-
 ### Experience
 
 *JP Morgan* | **Investment Strategy Summer Analyst** | Summer 2025
